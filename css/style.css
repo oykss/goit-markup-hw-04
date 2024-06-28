@@ -119,12 +119,12 @@ img {
 .menu {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .menu .link {
     font-weight: 500;
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .menu .link:is(:hover, :focus) {
@@ -137,7 +137,6 @@ img {
 
 address {
     font-style: normal;
-    padding: 24px 0;
 }
 
 .soc {
@@ -147,6 +146,7 @@ address {
 
 .soc .link {
     color: #434455;
+    padding: 24px 0;
 }
 
 .soc .link:is(:hover, :focus) {
