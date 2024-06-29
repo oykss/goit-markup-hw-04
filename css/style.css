@@ -96,7 +96,6 @@ img {
 /* Header */
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding: 24px 0;
 }
 
 .header .accent {
@@ -126,6 +125,7 @@ img {
     font-weight: 500;
     color: #2e2f42;
     padding: 24px 0;
+    display: block;
 }
 
 .menu .link:is(:hover, :focus) {
@@ -138,7 +138,6 @@ img {
 
 address {
     font-style: normal;
-
 }
 
 .soc {
@@ -149,6 +148,7 @@ address {
 .soc .link {
     color: #434455;
     padding: 24px 0;
+    display: block;
 }
 
 .soc .link:is(:hover, :focus) {
