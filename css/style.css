@@ -183,7 +183,7 @@ address {
 Section-1*/
 .hero {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url('/images/people-office-min.jpg');
+        url('../images/people-office-min.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
