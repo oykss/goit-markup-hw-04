@@ -50,4 +50,4 @@
   
 # [WebStudio](https://oykss.github.io/goit-markup-hw-04/)
 
-![alt]()
+![alt](https://i.imgur.com/BxndS3Y.jpg)
